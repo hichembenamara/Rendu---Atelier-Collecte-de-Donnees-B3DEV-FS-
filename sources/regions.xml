@@ -1,0 +1,10 @@
+<regions>
+  <region><pays>France</pays><zone>EU-Ouest</zone></region>
+  <region><pays>Belgique</pays><zone>EU-Ouest</zone></region>
+  <region><pays>Suisse</pays><zone>EU-Ouest</zone></region>
+  <region><pays>Espagne</pays><zone>EU-Sud</zone></region>
+  <region><pays>Italie</pays><zone>EU-Sud</zone></region>
+  <region><pays>Maroc</pays><zone>Afrique-Nord</zone></region>
+  <region><pays>Canada</pays><zone>Amérique-Nord</zone></region>
+  <region><pays>Allemagne</pays><zone>EU-Centre</zone></region>
+</regions>
